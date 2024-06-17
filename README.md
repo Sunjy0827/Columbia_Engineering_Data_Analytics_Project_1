@@ -38,7 +38,7 @@ Our data team assumed that we received a data request from the Montgomery County
 <ol type="I">
 <li>"grouped_df1" and the pie chart representing the top 5 municipalities showing the number of car accidents, the 'ROCKVILLE' municipality has the highest number of car accidents.<br>
 
-<img width="300" src="./Images/Top_5_table.png"><br>
+<img width="300" src="./Images/Top_5_Table.png"><br>
 <img width="600" src="./Images/Top_5.png">
 
 <li>From the f1_grouped_df1 and the horizontal bar chart representing the top 10 Roads, the 'ROCKVILLE PIKE' Road has the highest number of car accidents. <br>
