@@ -70,7 +70,9 @@ The number of car accidents were higher than other hour interval at between "12:
 <li> Reducing the speed limits on the zone have 35 & 40 speed limit would help reducing the car accidents numbers</li>
 <li>The road has higher speed limit and normally drivers get into the car accident when they try to pass the yellow light. With that said, shorting the yellow light time would help improve the number of car accident</li>
 <li>Place more traffic polices on the ROCKVILLE PIKE on that time intervals</li>
-<li>"Karen's Part"</li>
+<li>Encourage more people to use the highways, as opposed to local roads in June</li>
+<li>Place more police on hotspot roads in June.</li>
+<li>For Father's Day and other holidays in June, place more police and traffic control staff on roads<li>
 </ol>
 
 </p>
