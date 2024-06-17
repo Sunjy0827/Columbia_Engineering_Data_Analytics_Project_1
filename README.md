@@ -13,21 +13,12 @@ Our data team assumed that we received a data request from the Montgomery County
 ### **Data Processing**
 <p>
 <ol>
-<<<<<<< HEAD
 <li>Loaded all dependencies/libraries for the data processing</li>
 <li>Filtered out the rows have no values and have values "N/A" in the "Municipality" column </li>
 <li>Review the dataset by creating the pivot tables in excel and extract only require columns </li>
 <img width="800" src="./Images/pivot_tables.png">
 <li>break out the column "Crash Date/Time" to "Date", "Time", "Year", "Month", "Day" for detail analysis - Used CHATGPT </li>
 <img width="600" src="./Images/date_column_transformation.png">
-=======
-<li>Loaded all dependencies/libraries for the data processing.</li>
-<li>Filtered out the rows that have no values and have values "N/A" in the "Municipality" column.</li>
-<li>Reviewed the dataset by creating pivot tables in Excel and extracted only required columns.</li>
-<img alt="Pivot tables in Excel" width="800" src="https://github.com/Sunjy0827/Columbia_Engineering_Data_Analytics_Project_1/blob/main/images/pivot_tables.png?raw=true">
-<li>Broken out the column "Crash Date/Time" into "Date", "Time", "Year", "Month", "Day" for detailed analysis - Used CHATGPT.</li>
-<img alt="Date column transformation" width="600" src="https://github.com/Sunjy0827/Columbia_Engineering_Data_Analytics_Project_1/blob/main/images/date_column_transformation.png?raw=true">
->>>>>>> c4c1e532d68170263a34ec7106cb377b7af38206
 </ol>
 
 
@@ -47,12 +38,12 @@ Our data team assumed that we received a data request from the Montgomery County
 <ol type="I">
 <li>"grouped_df1" and the pie chart representing the top 5 municipalities showing the number of car accidents, the 'ROCKVILLE' municipality has the highest number of car accidents.<br>
 
-<img width="300" src="./Images/top_5_table.png"><br>
-<img width="600" src="./Images/top_5.png">
+<img width="300" src="./Images/Top_5_table.png"><br>
+<img width="600" src="./Images/Top_5.png">
 
 <li>From the f1_grouped_df1 and the horizontal bar chart representing the top 10 Roads, the 'ROCKVILLE PIKE' Road has the highest number of car accidents. <br>
 
-<img width="300" src="./Images/top_10_Roads_table.png"><br>
+<img width="300" src="./Images/Top_10_Roads_table.png"><br>
 <img width="600" src="./Images/Top_10_Roads_BarGraph.png">
 
 <li>
@@ -88,7 +79,7 @@ The number of car accidents in Rockville Pike in perspective of <b>Traffic Contr
 The number of car accidents in Rockville Pike in perspective of <b>Surface Condition & Weather</b>.<br> There was any significant relationship between surface condition and number of car accidents
 <br>
 
-<img width="300" src="./Images/Surface_Condition_Table.png"><br>
+<img width="300" src="./Images/Surface_condition_table.png"><br>
 <img width="600" src="./Images/By_surface_condition_Bar_Graph.png"><br>
 <img width="300" src="./Images/Weather_Table.png"><br>
 <img width="600" src="./Images/By_Weather_Bar_Graph.png">
