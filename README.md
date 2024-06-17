@@ -13,13 +13,23 @@ Our data team assumed that we received a data request from the Montgomery County
 ### **Data Processing**
 <p>
 <ol>
+<<<<<<< HEAD
 <li>Loaded all dependencies/libraries for the data processing</li>
 <li>Filtered out the rows have no values and have values "N/A" in the "Municipality" column </li>
 <li>Review the dataset by creating the pivot tables in excel and extract only require columns </li>
 <img width="800" src="./Images/pivot_tables.png">
 <li>break out the column "Crash Date/Time" to "Date", "Time", "Year", "Month", "Day" for detail analysis - Used CHATGPT </li>
 <img width="600" src="./Images/date_column_transformation.png">
+=======
+<li>Loaded all dependencies/libraries for the data processing.</li>
+<li>Filtered out the rows that have no values and have values "N/A" in the "Municipality" column.</li>
+<li>Reviewed the dataset by creating pivot tables in Excel and extracted only required columns.</li>
+<img alt="Pivot tables in Excel" width="800" src="https://github.com/Sunjy0827/Columbia_Engineering_Data_Analytics_Project_1/blob/main/images/pivot_tables.png?raw=true">
+<li>Broken out the column "Crash Date/Time" into "Date", "Time", "Year", "Month", "Day" for detailed analysis - Used CHATGPT.</li>
+<img alt="Date column transformation" width="600" src="https://github.com/Sunjy0827/Columbia_Engineering_Data_Analytics_Project_1/blob/main/images/date_column_transformation.png?raw=true">
+>>>>>>> c4c1e532d68170263a34ec7106cb377b7af38206
 </ol>
+
 
 
 ### **Chart and Visualization**
