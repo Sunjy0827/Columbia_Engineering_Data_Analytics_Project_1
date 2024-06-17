@@ -70,7 +70,7 @@ The number of car accidents in Rockville Pike in perspective of <b>Speed Limits.
 The number of car accidents in Rockville Pike in perspective of <b>Traffic Control</b>. Car accident near Traffic Signal was the number one reason among other traffic controls
 <br>
 
-<img width="300" src="./Images/Traffic_Control_table.png"><br>
+<img width="300" src="./Images/Traffic_Control_Table.png"><br>
 <img width="600" src="./Images/Traffic_Control_Bar_Graph.png">
 
 </li>
