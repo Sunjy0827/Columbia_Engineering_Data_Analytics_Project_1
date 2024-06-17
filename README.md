@@ -40,7 +40,7 @@ Our data team assumed that we received a data request from the Montgomery County
 <img width="300" src="./images/top_5_table.png"><br>
 <img width="600" src="./images/top_5.png">
 
-<li>From the f1_grouped_df1 and the horizontal bar chart representing the top 10 Roads, the 'ROCKVILLE PIKE' Road has the highest number of car accidents. <br><b>`image_1` & `image_2`</b></li><br>
+<li>From the f1_grouped_df1 and the horizontal bar chart representing the top 10 Roads, the 'ROCKVILLE PIKE' Road has the highest number of car accidents. <br>
 
 <img width="300" src="./images/top_10_Roads_table.png"><br>
 <img width="600" src="./images/Top_10_Roads_BarGraph.png">
