@@ -16,9 +16,9 @@ Our data team assumed that we received a data request from the Montgomery County
 <li>Loaded all dependencies/libraries for the data processing</li>
 <li>Filtered out the rows have no values and have values "N/A" in the "Municipality" column </li>
 <li>Review the dataset by creating the pivot tables in excel and extract only require columns </li>
-<img width="800" src="./images/pivot_tables.png">
+<img width="800" src="./Images/pivot_tables.png">
 <li>break out the column "Crash Date/Time" to "Date", "Time", "Year", "Month", "Day" for detail analysis - Used CHATGPT </li>
-<img width="600" src="./images/date_column_transformation.png">
+<img width="600" src="./Images/date_column_transformation.png">
 </ol>
 
 
@@ -37,18 +37,18 @@ Our data team assumed that we received a data request from the Montgomery County
 <ol type="I">
 <li>"grouped_df1" and the pie chart representing the top 5 municipalities showing the number of car accidents, the 'ROCKVILLE' municipality has the highest number of car accidents.<br>
 
-<img width="300" src="./images/top_5_table.png"><br>
-<img width="600" src="./images/top_5.png">
+<img width="300" src="./Images/top_5_table.png"><br>
+<img width="600" src="./Images/top_5.png">
 
 <li>From the f1_grouped_df1 and the horizontal bar chart representing the top 10 Roads, the 'ROCKVILLE PIKE' Road has the highest number of car accidents. <br>
 
-<img width="300" src="./images/top_10_Roads_table.png"><br>
-<img width="600" src="./images/Top_10_Roads_BarGraph.png">
+<img width="300" src="./Images/top_10_Roads_table.png"><br>
+<img width="600" src="./Images/Top_10_Roads_BarGraph.png">
 
 <li>
 Draw a map plot to visually show which road has the most accidents
 
-<img width="400" src="./images/map_plot_view.png"><br>
+<img width="400" src="./Images/map_plot_view.png"><br>
 
 
 </li><br>
@@ -59,8 +59,8 @@ Draw a map plot to visually show which road has the most accidents
 The number of car accidents in Rockville Pike in perspective of <b>Speed Limits.</b> 80% of the number of accidents were occured between 35 and 45 limit.
 <br>
 
-<img width="300" src="./images/By_Speed_Limit_Table.png"><br>
-<img width="600" src="./images/By_Speed_Limit_Bar_Graph.png">
+<img width="300" src="./Images/By_Speed_Limit_Table.png"><br>
+<img width="600" src="./Images/By_Speed_Limit_Bar_Graph.png">
 
 
 </li>
@@ -69,8 +69,8 @@ The number of car accidents in Rockville Pike in perspective of <b>Speed Limits.
 The number of car accidents in Rockville Pike in perspective of <b>Traffic Control</b>. Car accident near Traffic Signal was the number one reason among other traffic controls
 <br>
 
-<img width="300" src="./images/Traffic_Control_table.png"><br>
-<img width="600" src="./images/Traffic_Control_Bar_Graph.png">
+<img width="300" src="./Images/Traffic_Control_table.png"><br>
+<img width="600" src="./Images/Traffic_Control_Bar_Graph.png">
 
 </li>
 
@@ -78,10 +78,10 @@ The number of car accidents in Rockville Pike in perspective of <b>Traffic Contr
 The number of car accidents in Rockville Pike in perspective of <b>Surface Condition & Weather</b>.<br> There was any significant relationship between surface condition and number of car accidents
 <br>
 
-<img width="300" src="./images/Surface_Condition_Table.png"><br>
-<img width="600" src="./images/By_surface_condition_Bar_Graph.png"><br>
-<img width="300" src="./images/Weather_Table.png"><br>
-<img width="600" src="./images/By_Weather_Bar_Graph.png">
+<img width="300" src="./Images/Surface_Condition_Table.png"><br>
+<img width="600" src="./Images/By_surface_condition_Bar_Graph.png"><br>
+<img width="300" src="./Images/Weather_Table.png"><br>
+<img width="600" src="./Images/By_Weather_Bar_Graph.png">
 
 </li>
 
@@ -90,14 +90,14 @@ The number of car accidents by Hourly Intervals<br>
 The number of car accidents were higher than other hour interval at between "12:00 PM and 1:00PM", "02:00PM and "06:00PM" and "07:00 PM and 08:00PM".
 <br>
 
-<img width="600" src="./images/Hour_Interval_Table_PPT.png"><br>
-<img width="600" src="./images/Car_Accidents_By_Hour_Histogram.png">
+<img width="600" src="./Images/Hour_Interval_Table_PPT.png"><br>
+<img width="600" src="./Images/Car_Accidents_By_Hour_Histogram.png">
 
 <li>number of car accidents by Year-Month<br>There is a pattern observed that car accidents increase in June every year. Research shows that the traffic congestion is getting higher due to the increase of population (https://empowermontgomery.com/transit-power/)
 
 <br>
 
-<img width="600" src="./images/By_YearMonth.png">
+<img width="600" src="./Images/By_YearMonth.png">
 
 </ol>
 
@@ -117,6 +117,6 @@ The number of car accidents were higher than other hour interval at between "12:
 <li>Based upon the filters (speed limit & traffic signal), 155 records could be collected</li>
 <li>Final Recommendation for this analysis is lower the speed limit on the spotted area in the map or control traffic signal light</li>
 </ul>
-<img width="600" src="./images/map_plot_view_2.png">
+<img width="600" src="./Images/map_plot_view_2.png">
 
 </p>
